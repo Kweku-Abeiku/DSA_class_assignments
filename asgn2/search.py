@@ -93,7 +93,7 @@ print("--------------------")
 
 for i in range(5):
 
-    search(100, 1234)
+    search(100, 6)
     # print(TimeBinary)
     averageTimeBinary = sum(TimeBinary) / len(TimeBinary)
 
@@ -103,7 +103,7 @@ print("")
 
 for i in range(5):
 
-    search(1000, 1234)
+    search(1000, 6)
     # print(TimeBinary)
     averageTimeBinary = sum(TimeBinary) / len(TimeBinary)
 
@@ -113,7 +113,7 @@ print("")
 
 for i in range(5):
 
-    search(5000, 1234)
+    search(5000, 6)
     # print(TimeBinary)
     averageTimeBinary = sum(TimeBinary) / len(TimeBinary)
 
@@ -128,7 +128,7 @@ print("--------------------")
 
 for i in range(5):
 
-    Interpolation_Search(100, 1234)
+    Interpolation_Search(100, 6)
     # print(TimeBinary)
     averageTimeInterpolation = sum(TimeInterpolation) / len(TimeInterpolation)
 
@@ -138,7 +138,7 @@ print("")
 
 for i in range(5):
 
-    Interpolation_Search(1000, 1234)
+    Interpolation_Search(1000, 6)
     # print(TimeBinary)
     averageTimeInterpolation = sum(TimeInterpolation) / len(TimeInterpolation)
 
@@ -148,7 +148,7 @@ print("")
 
 for i in range(5):
 
-    Interpolation_Search(5000, 1234)
+    Interpolation_Search(5000, 6)
     # print(TimeBinary)
     averageTimeInterpolation = sum(TimeInterpolation) / len(TimeInterpolation)
 
